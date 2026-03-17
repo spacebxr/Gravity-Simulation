@@ -1,2 +1,2 @@
-Hi!, this is the code whihc simulates Gravity in C++ !
+Hi!, this is the code which simulates Gravity in C++ !
 hope you'll like it.
